@@ -1,2 +1,2 @@
-# Meu primeiro repositorio Github Cursd JS Mestre Jedi
+# Meu primeiro repositorio Github Curs JS Mestre Jedi
 formacao js mestre jedi
